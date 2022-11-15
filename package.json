@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "<!-- markdown tutorial -->\r Tarek mahmud <br>\r i am a web developer.\r ___",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.9.1"
+  }
+}
